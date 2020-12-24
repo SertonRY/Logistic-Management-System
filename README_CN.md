@@ -44,7 +44,7 @@
 
 ## 许可证
 
-[GPL-3.0 许可证 (GPL)](https://github.com/SertonRY/Logistic-Management-System)
+[GPL-3.0 许可证 (GPL)](https://github.com/SertonRY/Logistic-Management-System/blob/main/LICENSE)
 
 特别的，整个项目是由我们四个贡献值完成的，项目的使用需要严格遵守 GPL 3.0 许可协议，若存在任何资源的版权问题，请先尽快联系我们，侵权必删。
 

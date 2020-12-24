@@ -1,4 +1,4 @@
-[Chinese Version](https://github.com/SertonRY/Logistic-Management-System)
+[Chinese Version](https://github.com/SertonRY/Logistic-Management-System/blob/main/README_CN.md)
 
 # Logistic-Management-System
 
@@ -44,7 +44,7 @@ All the codes that include some private information such as the IP address of th
 
 ## License
 
-[The GPL-3.0 License (GPL)](https://github.com/SertonRY/Logistic-Management-System)
+[The GPL-3.0 License (GPL)](https://github.com/SertonRY/Logistic-Management-System/blob/main/LICENSE)
 
 In particular, this whole project is produced by four of us contributor, the usage of those codes must strictly follow the GPL 3.0 License rules. If you have any issue about the copyright, please contact us as soon as possible, we will delete those resources.
 
